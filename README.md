@@ -1,2 +1,5 @@
-# angularPhotoGallery
-A photo gallery created in Angular, following along with a treehouse course for learning angular
+# Photo Blog
+
+1. Clone the repository
+2. Run `npm install`
+3. Start the server `npm run serve`
